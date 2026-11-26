@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=north,phase=idle": {
+      "model": "arcanelegacy:block/inscription_table_idle"
+    },
+    "facing=north,phase=crafting": {
+      "model": "arcanelegacy:block/inscription_table_crafting"
+    },
+    "facing=north,phase=ready": {
+      "model": "arcanelegacy:block/inscription_table_ready"
+    },
+    "facing=east,phase=idle": {
+      "model": "arcanelegacy:block/inscription_table_idle",
+      "y": 90
+    },
+    "facing=east,phase=crafting": {
+      "model": "arcanelegacy:block/inscription_table_crafting",
+      "y": 90
+    },
+    "facing=east,phase=ready": {
+      "model": "arcanelegacy:block/inscription_table_ready",
+      "y": 90
+    },
+    "facing=south,phase=idle": {
+      "model": "arcanelegacy:block/inscription_table_idle",
+      "y": 180
+    },
+    "facing=south,phase=crafting": {
+      "model": "arcanelegacy:block/inscription_table_crafting",
+      "y": 180
+    },
+    "facing=south,phase=ready": {
+      "model": "arcanelegacy:block/inscription_table_ready",
+      "y": 180
+    },
+    "facing=west,phase=idle": {
+      "model": "arcanelegacy:block/inscription_table_idle",
+      "y": 270
+    },
+    "facing=west,phase=crafting": {
+      "model": "arcanelegacy:block/inscription_table_crafting",
+      "y": 270
+    },
+    "facing=west,phase=ready": {
+      "model": "arcanelegacy:block/inscription_table_ready",
+      "y": 270
+    }
+  }
+}

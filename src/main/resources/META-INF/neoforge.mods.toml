@@ -42,11 +42,12 @@ displayName="${mod_name}" #mandatory
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="Ender"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
+Uma releitura do Ars Magica 2 para versões atuais: monte seus próprios feitiços com runas na Mesa de Inscrição.
+A remake of Ars Magica 2's spellcrafting for modern Minecraft: build your own spells from runes at the Inscription Table.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.

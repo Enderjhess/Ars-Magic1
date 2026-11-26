@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "arcanelegacy:block/inscription_table_side",
+    "down": "arcanelegacy:block/inscription_table_bottom",
+    "up": "arcanelegacy:block/inscription_table_top_ready",
+    "north": "arcanelegacy:block/inscription_table_front",
+    "south": "arcanelegacy:block/inscription_table_side",
+    "east": "arcanelegacy:block/inscription_table_side",
+    "west": "arcanelegacy:block/inscription_table_side"
+  }
+}

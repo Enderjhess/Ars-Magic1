@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "GLG",
+    "LLL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "arcanelegacy:inscription_table"
+  }
+}
